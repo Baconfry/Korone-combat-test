@@ -1,0 +1,6325 @@
+fileFormatVersion: 2
+guid: c55b751f59fd6e54faf8972e770c1b77
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chowmein_walk_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1921
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5727a416bead04478eda9a4a54c7c8d
+      internalID: 1732127213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1921
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a906fd1c8c0b8ae49bcb3483b6e79ca1
+      internalID: 1606912004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1921
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1acd2938a7cc784580cf564d5523e90
+      internalID: -604296864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1871
+        width: 51
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402f52036ad68dd45b9b8862ada8f89f
+      internalID: -1105807095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1871
+        width: 50
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab5ae993e193f4da09d209839a4f33
+      internalID: -2138973584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1871
+        width: 50
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3320843ae85966468a3bc64e4afd97b
+      internalID: 1271020102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1871
+        width: 52
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eccbdee564f2548934705c9e5b4b6f
+      internalID: 1747771147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1871
+        width: 53
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fa310009ff13e45ab147098a0b9c0d
+      internalID: 29293867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1872
+        width: 53
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc054c5d1a4907478199145fb5d94d0
+      internalID: 1797753229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1872
+        width: 50
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a7613dd6e7e4c45998f18a62bf978b
+      internalID: 316156473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1855
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c8524392f08bd4e814071d6c1a0145
+      internalID: 1178508068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1855
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a31ec3042c23e4bb3ef5e112aadb48
+      internalID: -666980734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1855
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314875fc82536fd4a910e4a836dc3777
+      internalID: 1390078166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1855
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31cc661cc51db14cb63d5a652803179
+      internalID: -900661789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1855
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4b95be8e9b7945bcfa635675b6ba7
+      internalID: -1917961337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1809
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3899181a298711249b22dbd1054a0b09
+      internalID: 393986616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1808
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92355dcaf31f5ef489c31e11722492e3
+      internalID: -1066934827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1808
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8cc0cefc0e32f4fb832904882ce069
+      internalID: -1506457474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1808
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0de68adc27833e42a492425b978ed9a
+      internalID: 990818091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1808
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e6d1ce13eb5c345bb5c921f2d810ba
+      internalID: -1712696162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_21
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1808
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4b7af685405ae46aebb33461fd99ae
+      internalID: -1074117557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1808
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5844cd29722bb48915b86d2fd1bd87
+      internalID: 1414138201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_23
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1790
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2fcf62e23d3514e9423d22df103240
+      internalID: -250414232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1735
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21947e0d91c3fc40a8615c43fa9e51b
+      internalID: 71778308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1735
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f177e657518a3f4589e4cf355c75fd0
+      internalID: 256089070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1717
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34613a1e0af41854199416d585a51d96
+      internalID: 1781768538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1717
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce4af419c72094bb9593c741f40778
+      internalID: -2012707355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1717
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d948736f303da438cb3e0675dbee2b
+      internalID: -2100551040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1717
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d805aaf020076147a52cc15d3b0f23b
+      internalID: 342306544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1668
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35deba06b80b13b4397ab9cc3e2faeeb
+      internalID: -2012158608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1668
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9159c66cea8cbda449fe6a717c2b1d3e
+      internalID: 587758456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1652
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060c88a332144f149b540637e65807df
+      internalID: -1852272856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1652
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c3a27496b501e4c9bca9973093e1fb
+      internalID: 713393618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1652
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca685afd66698a409327532b3d0e623
+      internalID: 1566453913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1604
+        width: 40
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26423c602a0c2845ac4d586b37b1ebd
+      internalID: 314775819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1604
+        width: 43
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a333f8a987e12684c9b042960f8675f4
+      internalID: -406529802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_37
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1604
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4f75d440965e94c93b02382103d4c6
+      internalID: -1398954106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1604
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c7084d8231164b8f52f974c0cf73e
+      internalID: 452839942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1604
+        width: 54
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bd2790307c92745ba4f92a62ea254e
+      internalID: 1519375540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1604
+        width: 62
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fea8766e49381e4b8bf86f67911e4f5
+      internalID: -1073323461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_41
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1604
+        width: 75
+        height: 44
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a5e207f2d88a841af8bda5564a9a1e
+      internalID: -561433746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1604
+        width: 75
+        height: 45
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34150109e3d73a4daa8c14634067d40
+      internalID: 310623125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1604
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e5fd07edc51a942aa15a9bd06856c1
+      internalID: 976012097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1545
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2b4d7c26e91994baf0a1e7c5061fa5
+      internalID: -1657277703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1545
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f232d6656fc2793438d3fdd0a30eefd4
+      internalID: 1066388944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1545
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d278a4cb9f2dd94e8f20058102b0358
+      internalID: 1743595585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1545
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f1a9c22f53aab4fb78a9ff0c714a99
+      internalID: 25624978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1485
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05d720383e75d349be717c20b0c7838
+      internalID: 1871183731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1485
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aab2a2b39ce2374a8832638555ebe3d
+      internalID: -735324951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1485
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61131ccb6e4d2e74386be9f813d66560
+      internalID: 2020942830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1485
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9220fb1599757f4693a292a8d67e4d9
+      internalID: 763422389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1484
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d11defc86a4741ba738aeb7796730
+      internalID: 1964974972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1485
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf9035aa9f55174f872473dd883005b
+      internalID: -1419031022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_54
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1485
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d66756b5e7bf1946835e2f928b962a7
+      internalID: -1902091150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_55
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1485
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03066d364cd8a0b408c9bcc3e474c685
+      internalID: 414937882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_56
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1485
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca119fc6e826ebe4980393cca18816a0
+      internalID: -190143811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1420
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8793a527e9a6bfe4f84f7fbb3dcdd40a
+      internalID: 924406814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_58
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1420
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f69bfd065ef38147b078b8409b27726
+      internalID: -1861835672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1420
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58e5eb24e9d2c847bfe131ca04fd7ed
+      internalID: -773216698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_60
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1420
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98947156d79a8f84e800af81e3ae1870
+      internalID: -154318192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1402
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f42e02f08fc9041acb65568df084d6
+      internalID: 1780914635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1402
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b293711398aa9143aa7e596caf5e0fe
+      internalID: -1034830620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1402
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d09feff8d12f540bad79c5c2589ce4
+      internalID: -2096532808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_64
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1402
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c538bbc4c0caea4f8f7128a85453c8b
+      internalID: -1509994067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1353
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc82d07a3f0c642aecd35fcc696cac
+      internalID: -1173401975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_66
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1353
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a42215ba86ee4f46920d3e6e807db60
+      internalID: 1616736929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1353
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e682b9055c264eb836b528784a189
+      internalID: 303175351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1353
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249bbba9e4304543a8081db0c3a9190
+      internalID: -414955511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1300
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae57065cd5fcac41af55871e22e5d33
+      internalID: -1117277183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_70
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1300
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443e7e0b5caa0044d89a235df98dbf5a
+      internalID: 1168623023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_71
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1300
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2728cd6601425be4b8de16dfba3ef3e9
+      internalID: -1428140562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1250
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e742a9764e40824bbdbe97304d7af96
+      internalID: -1820297408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_73
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1250
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e919f994edcdd284f82df43d93ffc79c
+      internalID: 578775474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1250
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6c38848624df14fb4fba2f547d9e9d
+      internalID: -1451354175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_75
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1250
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cad06efa33004c43a026a41e6387005
+      internalID: -2011270903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_76
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1249
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66c7019470f9e641a52ca86acd2f28a
+      internalID: 85505877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_77
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1249
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa20c0ac5c5672e46979684bc55184a6
+      internalID: -100930411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_78
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1199
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ade1ae1ed8839b409c1e4135be0337d
+      internalID: 596950603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_79
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1200
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e25431c30c7504cb801b83408be4ab
+      internalID: 1941811779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_80
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1200
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edafef0b133b88a4b944c750a2863b9e
+      internalID: 1112667642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_81
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1201
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec14f4e8dc245b74c9718571fe4117e5
+      internalID: 840404328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_82
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1201
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb5242f6c7e4584fa761835269b379f
+      internalID: 1081369632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_83
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1201
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825bb883888c67141816c46c7f869c41
+      internalID: -1450784390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_84
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1139
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644a00d629a2f8b4c8a433aa2acca2f3
+      internalID: 803519170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_85
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1139
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8243ee8659142469e23898e41f82e7
+      internalID: -966621317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_86
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1139
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e9a1860f327ed40ad0cca4f0180ec8
+      internalID: 2086556582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_87
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1139
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d655527c0c6785445bf5c9dbdc4c07d0
+      internalID: 884594893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1139
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ec1aef125fe3d4c8b742dbf6ebb48c
+      internalID: 943899013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_89
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1139
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce0a6cd7a3793b43bb76a9893ed643f
+      internalID: 2054213376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_90
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1081
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b729e9209555e048901d89c9f32e5bb
+      internalID: 1264076450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_91
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1081
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969eec949327999489be1554fa6a3259
+      internalID: -1977337157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_92
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1059
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3c8fdc579586441b580bcfd3455559
+      internalID: -836514377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_93
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1059
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb2b4cc31dfda642b81ee3b48f5e7ec
+      internalID: -914283461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_94
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1059
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83296c995a3a7f44dba58bc28692e025
+      internalID: -284447620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1059
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cfe2fa06637044e8bb1ea5346429a9
+      internalID: -1430113451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1059
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bac0c252150964d8a498ab1f9f94f2
+      internalID: -117536393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_97
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1006
+        width: 54
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e328ec5c63b434c9438d171ab5f5b0
+      internalID: 698483929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_98
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1006
+        width: 52
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef8675193fc3d34ba1fd0b9d64d9d1c
+      internalID: -2102758394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_99
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1006
+        width: 56
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c37fe62c0d146c4890bdca134151128
+      internalID: 583454610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_100
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1006
+        width: 70
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1c634b2ed957f4a83e0c0d31dad07e
+      internalID: 2005095471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_101
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1007
+        width: 75
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe50dd6c2f0430f4f86ec1a684073f62
+      internalID: 1990710690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_102
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1008
+        width: 75
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2baa50a6a61d14290eca64bd7a3291
+      internalID: 640628807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_106
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1006
+        width: 53
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba896eb80baa8a34ab8ba79356b65780
+      internalID: 455545840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_107
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 937
+        width: 80
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b453b3f8e78397247a46df7c76114888
+      internalID: 1178778357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_110
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 937
+        width: 80
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6705b84b030bb40b0e05a4a0bbbb4b
+      internalID: 637355416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_111
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 937
+        width: 80
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a54f7d9ca4943d40bbda9c8dfc9a62a
+      internalID: 18849183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_112
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 937
+        width: 80
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d984b12a5d7de41916c8676401fb62
+      internalID: 1206473600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_113
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 937
+        width: 80
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6a861195527d842b65bd8466511e6c
+      internalID: 480833720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_115
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 937
+        width: 80
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed9a0bcc5a0a484c84d303465def1ea
+      internalID: 1746322461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_121
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 872
+        width: 78
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1155cc8c07724409e1f8e29d5133eb
+      internalID: 776670260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_124
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 872
+        width: 77
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66390a7a22e26404583b88641f7b1214
+      internalID: 629069620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_125
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 872
+        width: 77
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265417868c76c734bab077dc01a50fa5
+      internalID: 1172527165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_126
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 872
+        width: 76
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b79b6cac124b43b4e0df064ebbbac
+      internalID: 1788516150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_128
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 872
+        width: 74
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d213ac618e706754094da99b53a10ee1
+      internalID: -2042519764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_135
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 872
+        width: 76
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a740cbf54488488539c0c0f4eef26
+      internalID: -644569979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_140
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 872
+        width: 77
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a39211f004b9d4abc5bf8ec76ce315
+      internalID: -821732602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_141
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 805
+        width: 67
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8b289eca715354c9865647ea002ea2
+      internalID: -1646333660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_142
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 805
+        width: 55
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a23c828bf9544cae604325083e82e
+      internalID: -1469936645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_143
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 805
+        width: 49
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513cbc1a35a183f41ae105c7dc9ae3cd
+      internalID: 196940914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_144
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 805
+        width: 41
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc565dd3eb71e8498f9ad203b340081
+      internalID: -601599475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_145
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 805
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f511ed398856d93419d9e0aa0912a72b
+      internalID: -1921049818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_146
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 726
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cfeb4366f8ee2419eeea873ca9555a
+      internalID: -2048000718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_147
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 726
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f858987f1a7ea5419ba7c96182ca218
+      internalID: -1914579775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_148
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 726
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fbd0bc44c61cf4b93ecc5e1b17cb78
+      internalID: 84118637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_149
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 726
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173457b6ec36acf4bba6e649072c7740
+      internalID: -1214215156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_150
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 726
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34512766e83b23d47a13d9dff17d46e2
+      internalID: 1535354837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_151
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 675
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7e1f0cd743a2640851d20f83cf0ddf
+      internalID: 2139412778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_152
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 675
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f98f2347b5db3644a506a82711d48c8
+      internalID: -1190263559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_153
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 675
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318059e4000b1a54dbd471bdd2080c4a
+      internalID: -1670174829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_154
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 675
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff28e39a221481458267b0d44b99c43
+      internalID: -1512150966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_155
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 675
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a47118466be7a48a7f66d9b03671ce
+      internalID: 756316636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_156
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 607
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0941fd9e9eaa5545867b80f4326ed67
+      internalID: 1567246945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_157
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 607
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833c55a38b497104e856a58abc6fb2dd
+      internalID: 1753968733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_158
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 607
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22255a0932b98040a7b6b64a73e7088
+      internalID: -336734628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_159
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 607
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2088ccc95905ef1418e9e250d202b9af
+      internalID: -758521737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_160
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b5319e4d0cb13408dd973ccb95dfa5
+      internalID: 1377336813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_161
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 607
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d26df39b9cce4cb82db7407f818dd
+      internalID: -803615635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_162
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 607
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d6f01b60dc5d849b1c9e311894a19f
+      internalID: -597593983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_163
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 608
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b4f6a9253b6614b8b51ba956c2a131
+      internalID: -271543483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_164
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 562
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f401133e17a0ca4fa865580e9971d2a
+      internalID: 1246295325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_165
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 562
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb044be5d8a19c42aa631b1875d1342
+      internalID: 2056456635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_166
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 562
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32c6c9e2041b8246ab5560e195f2843
+      internalID: 1212741812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_167
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 562
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd7d2606343e54593fcec2f3fe8d7f
+      internalID: 1034881377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_168
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 520
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb17d6a9cd7aa548b928b5771112af3
+      internalID: -1116444600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_169
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 520
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544454005300d454795372cccf73495b
+      internalID: 2146982635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_170
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 520
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cb386a4be90c34e9322c9597d6c336
+      internalID: 1213915109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_171
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 520
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1291d50ea8ac3f443be783a0301c6e00
+      internalID: -1327007573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_172
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 520
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3146fe89dd186714eace66a99e8ebf88
+      internalID: -1996023435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_173
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 520
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d6ad6fa5b0f9d4ba7981ada8a5411c
+      internalID: 1743147109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_174
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 520
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671fc5de6ca9ca8408f63b44a4b410d7
+      internalID: 376256306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_175
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 519
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e926165a563314faca706a2dad7896
+      internalID: 1507362510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_176
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 519
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9ec8f8d1922d64e8e97adbeb885e57
+      internalID: -143960250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_177
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 519
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2d65e7da2aba4190c1f030f24bcf6
+      internalID: 2137125302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_178
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 519
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b308a5b79f94d45b02a6bd9e5dfa32
+      internalID: -2016541426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_179
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 519
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3339109648cb37540848ead5a2e18157
+      internalID: 345181089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_180
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 493
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c9539dd03367b42b5ceba85426f37d
+      internalID: 1376902434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_181
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 493
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc5e7dd74c47c0438928bd96cae4393
+      internalID: -141636835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_182
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 493
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbc0fcb5e70555498dc6c7b1cce24ab
+      internalID: -605590475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_183
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 493
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7334ea0b9715b7344b35488ad482b0e5
+      internalID: -581629589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_184
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 493
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d2b33ef70dea346ab3022dfe6cb73b
+      internalID: 359892472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_185
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 493
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53aee98cbc6d249b745d882bfdff19
+      internalID: 268400937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_186
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 453
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876c8f1affb04ee46bb4b3c414644501
+      internalID: 2117201640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_187
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 453
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9fc35e86d672743930cff6b37e6ea8
+      internalID: -1729518946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_188
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 453
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3b0ceccb86dc649abdd67460416124
+      internalID: -578845112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_189
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 453
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f1e1eb48cc8bd4bbcb9ec24ba44898
+      internalID: -494239268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_190
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 453
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8ffab7f2b8bf543a6470fe4fa38473
+      internalID: -826434481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_191
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 453
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0787ec5e82c9f0c478d57c5b78794f6b
+      internalID: 1011498292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_192
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 453
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de195020d1311d43a73e4ef89483c19
+      internalID: -1988371387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_193
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 453
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e09dd5036c1a3e448512b3631ad0857
+      internalID: 244195294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_194
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 453
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910b95ab185fea74399e3c4503072fda
+      internalID: 509598475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_195
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 453
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920c574ec10835c4bb9a3fbdf7bda01e
+      internalID: -282456567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_196
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 420
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653b49deb3615234a867ab95070b3282
+      internalID: 870660831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_197
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 420
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84cb500df0005247ad79cff368b4fdf
+      internalID: 1781694631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 420
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8267cdb536de09647becfa085009ff11
+      internalID: 2018030717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_199
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 420
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8f1fec105d6d34fbad57c9bb05692f
+      internalID: -1351705580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_200
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 420
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04143fd614ecd6445b7b25bfb898c370
+      internalID: -1252200621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_201
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 383
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972b3ed744b132e409c272a69d76767c
+      internalID: 1201508352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_202
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 383
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ad86df2b4ece245bc16dce83e75be2
+      internalID: -1035781407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_203
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd91097ed2c8c3449893c2d919fc4847
+      internalID: -1894619464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_204
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030baca3e4d9e9d4692247c38107f708
+      internalID: -1760836120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_205
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e449b93b8694de74dbcf55027b38b2eb
+      internalID: 1600139336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_206
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6394b8fd83809348a4664b84803f74e
+      internalID: -541948184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_207
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ff0229d971d224a9b0f3dc6337958e
+      internalID: -43167319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_208
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e7aaeb0fc3cba4096913988c290f46
+      internalID: 1534779845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_209
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdbda1c8076e1f4c9778478a1bdeb53
+      internalID: 557626374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_210
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928b7246a7a687f4dbb834179d64b2b8
+      internalID: 1949182047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_211
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a1c36465c2de745a4d383c90e760b8
+      internalID: 1209054979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_212
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7356baf991d4c41a16dfa9f96152d0
+      internalID: 647497212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_213
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 356
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6825810d9b8e94fbd9ad06011124d9
+      internalID: 1454650002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_214
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 356
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387896e3268a15b44bfc30e00accbd4f
+      internalID: 1550541329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_215
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 351
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f9d4b929c328640a0a0ec1d804589a
+      internalID: 1618992740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_216
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 304
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c727f6a71445d8544ab082169cb2ef6d
+      internalID: -1844356000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_217
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 347
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4338e7f4ecfd1f4d93b4984fce7a0f5
+      internalID: 476537550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_218
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 368
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d354664ffd0d754bb74e52690bfb9b1
+      internalID: 779884412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_219
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 347
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b96a00553943484ab62bafc659420c1
+      internalID: 1987371636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_220
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56702ec0d786ebc40b4aed4ba0ce0469
+      internalID: -493641242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_221
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 345
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8920b76da88c44fb7112ad8b35c777
+      internalID: -1013509899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_222
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 358
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0610bec916e2614ab18fefcd755ec0a
+      internalID: -676566792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_223
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 344
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f24f2711f9dd954db4101b101a58c2e
+      internalID: -209540227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_224
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 360
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce586ea893365ef48ac8a3d5243782f7
+      internalID: 754560727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_225
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 341
+        width: 141
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da032ba35990f643ac3321cf9a064cd
+      internalID: -855694010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_226
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 362
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1369be39af95eb4c84acaba678835b9
+      internalID: -1449182495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_227
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 360
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8343301157f2c469d3974619d180a8
+      internalID: -650543445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_228
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62365d6a2217d5f499503293d8babb02
+      internalID: 815623436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_229
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 355
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b84462eb260a340a6f9892645ba2ff
+      internalID: 272465104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_230
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 352
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71fc1d5d8cdfab4082a152c619f7a0d
+      internalID: 652492929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_231
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 351
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c55e58ec12a06245a201ace9e6d6028
+      internalID: -1276054223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_232
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 349
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eddbfe1d7cd32c43a8d0676ca9a4098
+      internalID: 1730711110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_233
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 308
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be68141c89c7fb428eeac331b3ccfa9
+      internalID: 845200008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_234
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 307
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f82f11a2afc9b43b1beb9e0a5f2a4c
+      internalID: 865913049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_235
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 304
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61529dfc4845f24aab62877d23492e1
+      internalID: -659865483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_236
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 307
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b967138da6e1a469095497a95dcacc
+      internalID: -68479020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_237
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 301
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cf212e43730d742af84362f3edfbd2
+      internalID: -1863431393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_238
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 301
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67887e71944a0b47a48a56866c544c3
+      internalID: 2268715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_239
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 300
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ce3dd2badb134ba5e62f73f401911
+      internalID: -1585817399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_240
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 301
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dadd80b9c4ea84691f57b55c051f2f
+      internalID: -2080316299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_241
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 302
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f9f4934fe143e4d807a452153ee9c0
+      internalID: 1717315311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_242
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 233
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96869c81fc9d322488cb3df6ac0cb819
+      internalID: -1077364264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_243
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 234
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21865122b19aca34abd29e0f5a5e5fca
+      internalID: 1643526526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_244
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 231
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d8b97d15275c343af2acda39d12a8a
+      internalID: 538847459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_245
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 235
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581262d6198d6b243a131abf62ecff64
+      internalID: -797218511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_246
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 278
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3198a4e578518a04896af1afcad9cf55
+      internalID: -1943911388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_247
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 275
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9edece38f0d4048a7dd32ba53edb36
+      internalID: -565667089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_248
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 274
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c639b0255f784b8da5914802e1864
+      internalID: -1991501302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_249
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 278
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800e9ba25732594f8567343823aaa60
+      internalID: 1176187323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_250
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 276
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7b3efa1791bef4ea51e0051feef832
+      internalID: 2029370830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_251
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 280
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7f17177330267469ad729773ed5848
+      internalID: -458768717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_252
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 284
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9082c53b80a8fb48bf4a8d577355d96
+      internalID: 1987607850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_253
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 278
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d6cd73d68756242a77c8015c26b524
+      internalID: -2101871317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_254
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 273
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcc9138b6bebff4e8f54204660c94c2
+      internalID: 1320321185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_255
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 273
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15dd4a61c0e4f749943ee055b114f51
+      internalID: -1408186970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_256
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 231
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185014ac79229f3469a310d4033b7e8b
+      internalID: -1515169980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_257
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 256
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2887c63dd170b3d469c63b067708eea8
+      internalID: -78039906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_258
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 241
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b81fdc1f6b99d44a3404b74a1bfffe
+      internalID: 22392346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_259
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 258
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af960e158887424e87a67e6a05e6ddc
+      internalID: 2145430247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_260
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 235
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379b8eda47de4cb4595d626d53a671e4
+      internalID: -1493748577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_261
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 267
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe0e7132b9e2424e8195b28aac81175
+      internalID: 519527714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_262
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 236
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8f5212c1125b24dba0fe791ef105ea
+      internalID: -1272754457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_263
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 244
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4215b3136c6e1b940a6de79da003171a
+      internalID: -22283832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_264
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 234
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9ea0abb6d95c947a05a14ea0f3b17f
+      internalID: -1995571781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_265
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 234
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d02cb0414cb6b4898407e991fb4f39
+      internalID: -1354045620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_266
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 233
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6712677754d634a9f1bf971a111f88
+      internalID: 1248977363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_267
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 196
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba13b0ab999afb478105848152245bf
+      internalID: -1625560979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_268
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 196
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424275bd51951244dbb991f3b925937a
+      internalID: 22984875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_269
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 196
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c851061316cc3842ac14cf97c4ec53c
+      internalID: -476341605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_270
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 196
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100b450166b2b7a4b8c66fb81cd25618
+      internalID: 1555588693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_271
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 142
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bee96a83de48b4bac019957325808c
+      internalID: -1971039009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_272
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 163
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f27c97ba5e0634cadf5a648e7b89c3
+      internalID: 1163707037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_273
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 142
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47f0231b978f014ba7b395c598392b0
+      internalID: -1071919515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_274
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 163
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6837c3e21ecc42428cb13fdba32a775
+      internalID: -513711528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_275
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 55
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5ad1a8023037042bb4095ae545e4f8
+      internalID: 943256659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_276
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511df6851c5a48c43bb2978659944b1d
+      internalID: -561559982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_277
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5c9c49c41cb5541aa8038412e4589e
+      internalID: -2060969674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_278
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daafa6f33e51af84fa9ec566cec7c548
+      internalID: -1876452411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_279
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 100
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587adf28f635a4d4a902a656f7f66ed4
+      internalID: -2114793949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_280
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dccd641454e3424b9c25972cddde7a6
+      internalID: 18028441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_281
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b940e005f85cbd14983f5ae215085553
+      internalID: -1933585772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_282
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a3df088f287d24e8fc143a5eab086a
+      internalID: 623107702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_283
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 100
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d09626bbe8bb194993fe7dc622468c7
+      internalID: -1883608547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_284
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93a31768159d974b8a90c8c3ac5542b
+      internalID: -812956278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_285
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ece466ec92c5a4eba0c0d6a25b0499
+      internalID: 1653749635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_286
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c3b7a2d60d4904286280305f2e7c94
+      internalID: -50795404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_287
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb283a2b0f59804785795e12d14e6a9
+      internalID: 363300209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_288
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c2eb7ae8c28c84db712a1f4e81a4c9
+      internalID: -1428298440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_289
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31ab55436f1e945beebd26f4e55a29
+      internalID: 1514454341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_290
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c36847847cd864b923c860b46aca07
+      internalID: 939992418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_291
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db55d5f68dd4c7f4598153945e953804
+      internalID: -1462992611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_292
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cac5a7f5814d9c48b894f6963606283
+      internalID: 2046072300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_293
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbb32ee68110b947926a4c1fe740d2c
+      internalID: -1833971790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_294
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c51eacb76bea4c87691f6e81332d7
+      internalID: -1088265894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_295
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f13ddf4950692443a36a11698e00f37
+      internalID: 344883871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_296
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 64
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1643642a3ccc0794ea6324e2117f4ac5
+      internalID: 709370889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_297
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 64
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3451d1056f58cbf41b5f0d659090dde2
+      internalID: -1307987211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_298
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 64
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c636b20310e476342be2f329c5f295d2
+      internalID: 1207650227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_299
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfd4793c97f1104ea9f9a622b1c7941
+      internalID: 699124656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_300
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 64
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54defba6ac39f44b9e811cabe5efe8a
+      internalID: 1325537667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_301
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 64
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708240ae63c4f0c4d82510d7b56a14c6
+      internalID: -186030225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_302
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 64
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe68a21b0c01da44b7b0d6644846703
+      internalID: 1762223746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_303
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 64
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca61b3fd9ead924448bbb1d5708d9aa2
+      internalID: 1897486806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chowmein_walk_304
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 64
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fe7883b9cbae1429c8a21621935054
+      internalID: 641506638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chowmein_walk_0: 1573914960
+      chowmein_walk_1: 1732127213
+      chowmein_walk_10: 316156473
+      chowmein_walk_100: 2005095471
+      chowmein_walk_101: 1990710690
+      chowmein_walk_102: 640628807
+      chowmein_walk_103: -1762812509
+      chowmein_walk_104: -764236883
+      chowmein_walk_105: 1935105142
+      chowmein_walk_106: 455545840
+      chowmein_walk_107: 1178778357
+      chowmein_walk_108: 1026001464
+      chowmein_walk_109: -403151477
+      chowmein_walk_11: 1178508068
+      chowmein_walk_110: 637355416
+      chowmein_walk_111: 18849183
+      chowmein_walk_112: 1206473600
+      chowmein_walk_113: 480833720
+      chowmein_walk_114: -298523096
+      chowmein_walk_115: 1746322461
+      chowmein_walk_116: -510375151
+      chowmein_walk_117: 840001960
+      chowmein_walk_118: 1523708610
+      chowmein_walk_119: -1680927673
+      chowmein_walk_12: -666980734
+      chowmein_walk_120: -2106772644
+      chowmein_walk_121: 776670260
+      chowmein_walk_122: -1098443498
+      chowmein_walk_123: 1362402998
+      chowmein_walk_124: 629069620
+      chowmein_walk_125: 1172527165
+      chowmein_walk_126: 1788516150
+      chowmein_walk_127: 900634743
+      chowmein_walk_128: -2042519764
+      chowmein_walk_129: -1695175042
+      chowmein_walk_13: 1390078166
+      chowmein_walk_130: 190975448
+      chowmein_walk_131: -1340130318
+      chowmein_walk_132: 109636765
+      chowmein_walk_133: 534796883
+      chowmein_walk_134: -972132526
+      chowmein_walk_135: -644569979
+      chowmein_walk_136: 279786771
+      chowmein_walk_137: 80503989
+      chowmein_walk_138: -555980433
+      chowmein_walk_139: -398854361
+      chowmein_walk_14: -900661789
+      chowmein_walk_140: -821732602
+      chowmein_walk_141: -1646333660
+      chowmein_walk_142: -1469936645
+      chowmein_walk_143: 196940914
+      chowmein_walk_144: -601599475
+      chowmein_walk_145: -1921049818
+      chowmein_walk_146: -2048000718
+      chowmein_walk_147: -1914579775
+      chowmein_walk_148: 84118637
+      chowmein_walk_149: -1214215156
+      chowmein_walk_15: -1917961337
+      chowmein_walk_150: 1535354837
+      chowmein_walk_151: 2139412778
+      chowmein_walk_152: -1190263559
+      chowmein_walk_153: -1670174829
+      chowmein_walk_154: -1512150966
+      chowmein_walk_155: 756316636
+      chowmein_walk_156: 1567246945
+      chowmein_walk_157: 1753968733
+      chowmein_walk_158: -336734628
+      chowmein_walk_159: -758521737
+      chowmein_walk_16: 393986616
+      chowmein_walk_160: 1377336813
+      chowmein_walk_161: -803615635
+      chowmein_walk_162: -597593983
+      chowmein_walk_163: -271543483
+      chowmein_walk_164: 1246295325
+      chowmein_walk_165: 2056456635
+      chowmein_walk_166: 1212741812
+      chowmein_walk_167: 1034881377
+      chowmein_walk_168: -1116444600
+      chowmein_walk_169: 2146982635
+      chowmein_walk_17: -1066934827
+      chowmein_walk_170: 1213915109
+      chowmein_walk_171: -1327007573
+      chowmein_walk_172: -1996023435
+      chowmein_walk_173: 1743147109
+      chowmein_walk_174: 376256306
+      chowmein_walk_175: 1507362510
+      chowmein_walk_176: -143960250
+      chowmein_walk_177: 2137125302
+      chowmein_walk_178: -2016541426
+      chowmein_walk_179: 345181089
+      chowmein_walk_18: -1506457474
+      chowmein_walk_180: 1376902434
+      chowmein_walk_181: -141636835
+      chowmein_walk_182: -605590475
+      chowmein_walk_183: -581629589
+      chowmein_walk_184: 359892472
+      chowmein_walk_185: 268400937
+      chowmein_walk_186: 2117201640
+      chowmein_walk_187: -1729518946
+      chowmein_walk_188: -578845112
+      chowmein_walk_189: -494239268
+      chowmein_walk_19: 990818091
+      chowmein_walk_190: -826434481
+      chowmein_walk_191: 1011498292
+      chowmein_walk_192: -1988371387
+      chowmein_walk_193: 244195294
+      chowmein_walk_194: 509598475
+      chowmein_walk_195: -282456567
+      chowmein_walk_196: 870660831
+      chowmein_walk_197: 1781694631
+      chowmein_walk_198: 2018030717
+      chowmein_walk_199: -1351705580
+      chowmein_walk_2: 1606912004
+      chowmein_walk_20: -1712696162
+      chowmein_walk_200: -1252200621
+      chowmein_walk_201: 1201508352
+      chowmein_walk_202: -1035781407
+      chowmein_walk_203: -1894619464
+      chowmein_walk_204: -1760836120
+      chowmein_walk_205: 1600139336
+      chowmein_walk_206: -541948184
+      chowmein_walk_207: -43167319
+      chowmein_walk_208: 1534779845
+      chowmein_walk_209: 557626374
+      chowmein_walk_21: -1074117557
+      chowmein_walk_210: 1949182047
+      chowmein_walk_211: 1209054979
+      chowmein_walk_212: 647497212
+      chowmein_walk_213: 1454650002
+      chowmein_walk_214: 1550541329
+      chowmein_walk_215: 1618992740
+      chowmein_walk_216: -1844356000
+      chowmein_walk_217: 476537550
+      chowmein_walk_218: 779884412
+      chowmein_walk_219: 1987371636
+      chowmein_walk_22: 1414138201
+      chowmein_walk_220: -493641242
+      chowmein_walk_221: -1013509899
+      chowmein_walk_222: -676566792
+      chowmein_walk_223: -209540227
+      chowmein_walk_224: 754560727
+      chowmein_walk_225: -855694010
+      chowmein_walk_226: -1449182495
+      chowmein_walk_227: -650543445
+      chowmein_walk_228: 815623436
+      chowmein_walk_229: 272465104
+      chowmein_walk_23: -250414232
+      chowmein_walk_230: 652492929
+      chowmein_walk_231: -1276054223
+      chowmein_walk_232: 1730711110
+      chowmein_walk_233: 845200008
+      chowmein_walk_234: 865913049
+      chowmein_walk_235: -659865483
+      chowmein_walk_236: -68479020
+      chowmein_walk_237: -1863431393
+      chowmein_walk_238: 2268715
+      chowmein_walk_239: -1585817399
+      chowmein_walk_24: 71778308
+      chowmein_walk_240: -2080316299
+      chowmein_walk_241: 1717315311
+      chowmein_walk_242: -1077364264
+      chowmein_walk_243: 1643526526
+      chowmein_walk_244: 538847459
+      chowmein_walk_245: -797218511
+      chowmein_walk_246: -1943911388
+      chowmein_walk_247: -565667089
+      chowmein_walk_248: -1991501302
+      chowmein_walk_249: 1176187323
+      chowmein_walk_25: 256089070
+      chowmein_walk_250: 2029370830
+      chowmein_walk_251: -458768717
+      chowmein_walk_252: 1987607850
+      chowmein_walk_253: -2101871317
+      chowmein_walk_254: 1320321185
+      chowmein_walk_255: -1408186970
+      chowmein_walk_256: -1515169980
+      chowmein_walk_257: -78039906
+      chowmein_walk_258: 22392346
+      chowmein_walk_259: 2145430247
+      chowmein_walk_26: 1781768538
+      chowmein_walk_260: -1493748577
+      chowmein_walk_261: 519527714
+      chowmein_walk_262: -1272754457
+      chowmein_walk_263: -22283832
+      chowmein_walk_264: -1995571781
+      chowmein_walk_265: -1354045620
+      chowmein_walk_266: 1248977363
+      chowmein_walk_267: -1625560979
+      chowmein_walk_268: 22984875
+      chowmein_walk_269: -476341605
+      chowmein_walk_27: -2012707355
+      chowmein_walk_270: 1555588693
+      chowmein_walk_271: -1971039009
+      chowmein_walk_272: 1163707037
+      chowmein_walk_273: -1071919515
+      chowmein_walk_274: -513711528
+      chowmein_walk_275: 943256659
+      chowmein_walk_276: -561559982
+      chowmein_walk_277: -2060969674
+      chowmein_walk_278: -1876452411
+      chowmein_walk_279: -2114793949
+      chowmein_walk_28: -2100551040
+      chowmein_walk_280: 18028441
+      chowmein_walk_281: -1933585772
+      chowmein_walk_282: 623107702
+      chowmein_walk_283: -1883608547
+      chowmein_walk_284: -812956278
+      chowmein_walk_285: 1653749635
+      chowmein_walk_286: -50795404
+      chowmein_walk_287: 363300209
+      chowmein_walk_288: -1428298440
+      chowmein_walk_289: 1514454341
+      chowmein_walk_29: 342306544
+      chowmein_walk_290: 939992418
+      chowmein_walk_291: -1462992611
+      chowmein_walk_292: 2046072300
+      chowmein_walk_293: -1833971790
+      chowmein_walk_294: -1088265894
+      chowmein_walk_295: 344883871
+      chowmein_walk_296: 709370889
+      chowmein_walk_297: -1307987211
+      chowmein_walk_298: 1207650227
+      chowmein_walk_299: 699124656
+      chowmein_walk_3: -604296864
+      chowmein_walk_30: -2012158608
+      chowmein_walk_300: 1325537667
+      chowmein_walk_301: -186030225
+      chowmein_walk_302: 1762223746
+      chowmein_walk_303: 1897486806
+      chowmein_walk_304: 641506638
+      chowmein_walk_31: 587758456
+      chowmein_walk_32: -1852272856
+      chowmein_walk_33: 713393618
+      chowmein_walk_34: 1566453913
+      chowmein_walk_35: 314775819
+      chowmein_walk_36: -406529802
+      chowmein_walk_37: -1398954106
+      chowmein_walk_38: 452839942
+      chowmein_walk_39: 1519375540
+      chowmein_walk_4: -1105807095
+      chowmein_walk_40: -1073323461
+      chowmein_walk_41: -561433746
+      chowmein_walk_42: 310623125
+      chowmein_walk_43: 976012097
+      chowmein_walk_44: -1657277703
+      chowmein_walk_45: 1066388944
+      chowmein_walk_46: 1743595585
+      chowmein_walk_47: 25624978
+      chowmein_walk_48: 1871183731
+      chowmein_walk_49: -735324951
+      chowmein_walk_5: -2138973584
+      chowmein_walk_50: 2020942830
+      chowmein_walk_51: 763422389
+      chowmein_walk_52: 1964974972
+      chowmein_walk_53: -1419031022
+      chowmein_walk_54: -1902091150
+      chowmein_walk_55: 414937882
+      chowmein_walk_56: -190143811
+      chowmein_walk_57: 924406814
+      chowmein_walk_58: -1861835672
+      chowmein_walk_59: -773216698
+      chowmein_walk_6: 1271020102
+      chowmein_walk_60: -154318192
+      chowmein_walk_61: 1780914635
+      chowmein_walk_62: -1034830620
+      chowmein_walk_63: -2096532808
+      chowmein_walk_64: -1509994067
+      chowmein_walk_65: -1173401975
+      chowmein_walk_66: 1616736929
+      chowmein_walk_67: 303175351
+      chowmein_walk_68: -414955511
+      chowmein_walk_69: -1117277183
+      chowmein_walk_7: 1747771147
+      chowmein_walk_70: 1168623023
+      chowmein_walk_71: -1428140562
+      chowmein_walk_72: -1820297408
+      chowmein_walk_73: 578775474
+      chowmein_walk_74: -1451354175
+      chowmein_walk_75: -2011270903
+      chowmein_walk_76: 85505877
+      chowmein_walk_77: -100930411
+      chowmein_walk_78: 596950603
+      chowmein_walk_79: 1941811779
+      chowmein_walk_8: 29293867
+      chowmein_walk_80: 1112667642
+      chowmein_walk_81: 840404328
+      chowmein_walk_82: 1081369632
+      chowmein_walk_83: -1450784390
+      chowmein_walk_84: 803519170
+      chowmein_walk_85: -966621317
+      chowmein_walk_86: 2086556582
+      chowmein_walk_87: 884594893
+      chowmein_walk_88: 943899013
+      chowmein_walk_89: 2054213376
+      chowmein_walk_9: 1797753229
+      chowmein_walk_90: 1264076450
+      chowmein_walk_91: -1977337157
+      chowmein_walk_92: -836514377
+      chowmein_walk_93: -914283461
+      chowmein_walk_94: -284447620
+      chowmein_walk_95: -1430113451
+      chowmein_walk_96: -117536393
+      chowmein_walk_97: 698483929
+      chowmein_walk_98: -2102758394
+      chowmein_walk_99: 583454610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

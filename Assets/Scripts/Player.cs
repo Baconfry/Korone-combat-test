@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public enum AnimationState { idle, walk, run, hurt, punch1, punch2, airKick, jump, shoot } //this tracks what animation the player should use
+    public enum AnimationState { idle, walk, run, hurt, punch1, punch2, bat, airKick, jump, shoot } //this tracks what animation the player should use
     public AnimationState animationState;
 
     public enum AnimationType { looping, sequence, holdLastFrame } //this determines what happens when the animation finishes
@@ -19,9 +19,13 @@ public class Player : MonoBehaviour
     [SerializeField] private Sprite[] kickSprites;
     [SerializeField] private Sprite[] punch1Sprites;
     [SerializeField] private Sprite[] punch2Sprites;
+    [SerializeField] private Sprite[] batSprites;
+    [SerializeField] private Sprite[] shootSprites;
 
     [SerializeField] private float secondsPerFrame;
     private GameObject hitbox; //this child object provides the collider for melee attacks
+    [SerializeField] private GameObject fingerBullet;
+    [SerializeField] private float bulletVelocity;
 
     private SpriteRenderer spriteRenderer;
     private BoxCollider2D playerCollider;
@@ -125,7 +129,13 @@ public class Player : MonoBehaviour
                     isAttacking = true;
                     rig.velocity = new Vector3(0f, rig.velocity.y, 0f);
                 }
-            }      
+            }
+            else if (Input.GetMouseButtonDown(1) && !isJumping)
+            {
+                animationState = AnimationState.shoot;
+                isAttacking = true;
+                rig.velocity = new Vector3(0f, rig.velocity.y, 0f);
+            }
         }
 
         if (!IsTouchingSurface() && !isAttacking) //if player walked off a ledge without manually jumping
@@ -170,6 +180,7 @@ public class Player : MonoBehaviour
                 }
             }
         }
+        if (rig.velocity.y != 0f) returnValue = false;
         return returnValue;
     }
 
@@ -215,6 +226,10 @@ public class Player : MonoBehaviour
                 return punch1Sprites;
             case AnimationState.punch2:
                 return punch2Sprites;
+            case AnimationState.bat:
+                return batSprites;
+            case AnimationState.shoot:
+                return shootSprites;
             default:
                 return null;
         }
@@ -232,6 +247,8 @@ public class Player : MonoBehaviour
                 return AnimationType.holdLastFrame;
             case AnimationState.punch1:
             case AnimationState.punch2:
+            case AnimationState.bat:
+            case AnimationState.shoot:
             case AnimationState.hurt:
             case AnimationState.airKick:
                 return AnimationType.sequence;
@@ -246,6 +263,7 @@ public class Player : MonoBehaviour
         switch (state)
         {
             case AnimationState.idle:
+            case AnimationState.shoot:
                 return 0.1f;
             case AnimationState.walk:
             case AnimationState.run:
@@ -254,6 +272,8 @@ public class Player : MonoBehaviour
                 return 0.1f;
             case AnimationState.punch1:
             case AnimationState.punch2:
+            case AnimationState.bat:
+            
                 return 0.04f;
             default:
                 return 0.1f;
@@ -282,6 +302,8 @@ public class Player : MonoBehaviour
                 break;
             case AnimationState.punch1:
             case AnimationState.punch2:
+            case AnimationState.bat:
+            case AnimationState.shoot:
                 isJumping = false;
                 isAttacking = true;
                 break;
@@ -338,6 +360,33 @@ public class Player : MonoBehaviour
                     break;
             }
         }
+        else if (state == AnimationState.bat)
+        {
+            switch (index)
+            {
+                case 1:
+                    hitbox.SetActive(true);
+                    hitbox.transform.localPosition = new Vector3(spriteRenderer.flipX ? -0.5416f : 0.5416f, 0.8379f, 0f);
+                    hitbox.transform.localScale = new Vector3(0.8878f, 1.4862f, 1f);
+                    break;
+                default:
+                    hitbox.SetActive(false);
+                    break;
+            }
+        }
+        else if (state == AnimationState.shoot)
+        {
+            switch (index)
+            {
+                case 1:
+                    GameObject projectile = Instantiate(fingerBullet, transform.position + new Vector3(spriteRenderer.flipX ? -0.344f : 0.344f, 0.809f, 0f), Quaternion.identity);
+                    projectile.GetComponent<SpriteRenderer>().flipX = spriteRenderer.flipX;
+                    projectile.GetComponent<Rigidbody2D>().velocity = new Vector3(spriteRenderer.flipX ? -bulletVelocity : bulletVelocity, 0f, 0f);
+                    break;
+                default:
+                    break;
+            }
+        }
     }
 
     IEnumerator AnimatePlayer(AnimationState state) //handles player animations
@@ -373,6 +422,7 @@ public class Player : MonoBehaviour
                     else if (type == AnimationType.sequence)
                     {
                         if (initialState == AnimationState.punch1 && clickedDuringAnimation) { animationState = AnimationState.punch2; }
+                        else if (initialState == AnimationState.punch2 && clickedDuringAnimation) { animationState = AnimationState.bat; }
                         else { animationState = AnimationState.idle; }
                     }
                     else if (type == AnimationType.holdLastFrame)

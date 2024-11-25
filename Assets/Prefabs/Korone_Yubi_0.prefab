@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2449407076643020957}
   - component: {fileID: 7468312722949369429}
   - component: {fileID: -1245877533223541329}
+  - component: {fileID: 6253554162245759501}
   m_Layer: 0
   m_Name: Korone_Yubi_0
   m_TagString: PlayerAttack
@@ -158,3 +159,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &6253554162245759501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4483137168865278602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18686a9450b194843a0497ed77787cb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

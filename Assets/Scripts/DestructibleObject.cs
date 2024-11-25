@@ -33,7 +33,15 @@ public class DestructibleObject : MonoBehaviour
                 if (overlappingColliders[i].gameObject.tag == "PlayerAttack" && canBeDamaged)
                 {
                     overlappingColliders[i].gameObject.SetActive(false);
-                    Vector3 VFXposition = new Vector3((transform.position.x + overlappingColliders[i].transform.position.x) / 2, (transform.position.y + overlappingColliders[i].transform.position.y) / 2, 0f);
+                    Vector3 VFXposition;
+                    if (overlappingColliders[i].GetComponent<PlayerProjectile>() == null)
+                    {
+                        VFXposition = new Vector3((transform.position.x + overlappingColliders[i].transform.position.x) / 2, (transform.position.y + overlappingColliders[i].transform.position.y) / 2, 0f);
+                    }
+                    else
+                    {
+                        VFXposition = overlappingColliders[i].transform.position;
+                    }
                     Instantiate(hitVFX, VFXposition, Quaternion.identity);
                     StartCoroutine(PlayDamageAnimation());
                     break;

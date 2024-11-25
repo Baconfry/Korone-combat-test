@@ -71,8 +71,16 @@ public class ChowMein : MonoBehaviour
                         spriteRenderer.color = Color.black;
                         canBeDamaged = false;
                     }
-                    Vector3 VFXposition = new Vector3((transform.position.x + overlappingColliders[i].transform.position.x) / 2, (transform.position.y + overlappingColliders[i].transform.position.y) / 2, 0f);
-                    Instantiate(hitVFX, VFXposition, Quaternion.identity);
+                    Vector3 VFXposition;
+                    if (overlappingColliders[i].GetComponent<PlayerProjectile>() == null)
+                    {
+                        VFXposition = new Vector3((transform.position.x + overlappingColliders[i].transform.position.x) / 2, (transform.position.y + overlappingColliders[i].transform.position.y) / 2, 0f);
+                    }
+                    else
+                    {
+                        VFXposition = overlappingColliders[i].transform.position;
+                    }
+                        Instantiate(hitVFX, VFXposition, Quaternion.identity);
                     break;
                 }
             }
